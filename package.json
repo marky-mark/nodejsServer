@@ -1,0 +1,17 @@
+{
+  "name": "nodejsSimpleServer",
+  "version": "0.0.1",
+  "description": "a very VERY simple test server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mkelly-gt/nodejsServer.git"
+  },
+  "author": "mkelly",
+  "license": "BSD",
+  "gitHead": "c8ec57c14e1ae7b06c652a73fb84ac6bb73ece37"
+}
